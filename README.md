@@ -59,6 +59,10 @@ most recent completed month.
 # Results
 ![alt text](https://github.com/PrestonStringham/data-512-a1/blob/master/data/results/output.jpg?raw=true)
 
+# Additional Packages
+* [Pandas](https://pandas.pydata.org/) was used extensively throughout this project as the main data manipulation tool. Pandas falls under the BSD 3-Clause License.
+* [Matplotlib](https://matplotlib.org/) was used for visualization. The license agreement can be found [here](https://github.com/matplotlib/matplotlib/blob/master/LICENSE/LICENSE).
+
 # Licenses and Attribution
 The Wikimedia REST API is licensed under the [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) and GFDL [GFDL](https://www.gnu.org/licenses/fdl-1.3.html) licenses.
 
