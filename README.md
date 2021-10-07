@@ -60,6 +60,7 @@ most recent completed month.
 ![alt text](https://github.com/PrestonStringham/data-512-a1/blob/master/data/results/output.jpg?raw=true)
 
 # Additional Packages
+* [Anaconda](https://www.anaconda.com/) was used as my data science platform. This gives you access to all the packages used in this project as well as Jupyter Notebooks which is necessary to open the single src file. The license agreement for anaconda can be found [here](https://www.anaconda.com/eula-anaconda-individual-edition).
 * [Pandas](https://pandas.pydata.org/) was used extensively throughout this project as the main data manipulation tool. Pandas falls under the BSD 3-Clause License.
 * [Matplotlib](https://matplotlib.org/) was used for visualization. The license agreement can be found [here](https://github.com/matplotlib/matplotlib/blob/master/LICENSE/LICENSE).
 
